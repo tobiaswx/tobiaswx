@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+After a somewhat inactive time on GitHub, I decided in 02/2024 to update some of my projects and maintain them more often.
+
+I have already created some tasks in the form of issues that I will start working on soon: [Maintenance of current projects](https://github.com/users/tobiaswx/projects/6/views/1)
+
+
 <!--
 **tobiaswx/tobiaswx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
